@@ -1,0 +1,48 @@
+
+Title: Understand Novelty-Search through Inverse RNA folding 
+============================================================
+
+1. Abstract 
+	.Motivation: Understand Novelty search 
+	.State the problem: Inverse RNA folding and does novelty-search in solving the Inverse 		RNAfolding
+	.The result : present the statistic of experiements carried out.
+
+2. Introduction and motivation 
+	. State of art on existing methods solving RNA inverse folding and a particular focus on GA-based ones. 
+	. why is this problem good to evaluate a GA ? 
+	. State the content of the paper 
+
+3. Evolutionary algorithm approaches to solve Inverse RNA folding
+
+	3.1 Evolutionary algo based on fitness
+		.Define the EA and give the differents steps of the algorithm
+		.hightlight the avantages and disatvantages of guiding the EA only on an objective function. 
+	3.2 Novelty-search approach 
+	
+		. Why novelty-search?  
+		. What does it do? 
+
+	3.3 Method 
+		.Give details about the algorithm implemented, explain every steps and study the 			complexity of the method proposed. discuss how the approch is different from the 			existant methods in the literature. 
+	
+		. Explain how we can add Novelty-search module to MODENA
+	
+
+4. Results and discussions
+	4.1 Experiments carried out 
+	.  Define the dataset used and bring justifications (Why this dataset?)
+	.  Explain and analyze the result obtained 
+	    .  discuss the result obtained using novelty-search, both novelty and fitness : 
+		. on the mut_rate turning 
+		. different novelty metrics, EA objective functions. 
+		. different values  of lambda used
+		. crossover, drift and elitism effect. 
+
+	4.2 Benchmark
+	. Compare the result of the experience carried out to the ones obtained by running existing algorithm on the same data set in order to show how novelty has an impact on the result
+	
+	. Compare the performance of modena with novelty and without novelty 
+ 
+5. Conclusion and perspective  
+	. Enumerates some disadvantages of the method proposed 
+	. Given future works that can be done to improve it 

@@ -1,0 +1,94 @@
+\begin{thebibliography}{10}
+
+\bibitem{ancel2000plasticity}
+L.~W. Ancel and W.~Fontana.
+\newblock Plasticity, evolvability, and modularity in rna.
+\newblock {\em Journal of Experimental Zoology}, 288(3):242--283, 2000.
+
+\bibitem{anderson2016principles}
+J.~Anderson-Lee, E.~Fisker, V.~Kosaraju, M.~Wu, J.~Kong, J.~Lee, M.~Lee,
+  M.~Zada, A.~Treuille, and R.~Das.
+\newblock Principles for predicting rna secondary structure design difficulty.
+\newblock {\em Journal of molecular biology}, 428(5):748--757, 2016.
+
+\bibitem{churkin2017design}
+A.~Churkin, M.~D. Retwitzer, V.~Reinharz, Y.~Ponty, J.~Waldisp{\"u}hl, and
+  D.~Barash.
+\newblock Design of rnas: comparing programs for inverse rna folding.
+\newblock {\em Briefings in bioinformatics}, 19(2):350--358, 2017.
+
+\bibitem{dromi2008reconstruction}
+N.~Dromi, A.~Avihoo, and D.~Barash.
+\newblock Reconstruction of natural rna sequences from rna shape, thermodynamic
+  stability, mutational robustness, and linguistic complexity by evolutionary
+  computation.
+\newblock {\em Journal of Biomolecular Structure and Dynamics}, 26(1):147--161,
+  2008.
+
+\bibitem{esmaili2015erd}
+A.~Esmaili-Taheri and M.~Ganjtabesh.
+\newblock Erd: a fast and reliable tool for rna design including constraints.
+\newblock {\em BMC bioinformatics}, 16(1):20, 2015.
+
+\bibitem{esmaili2014evolutionary}
+A.~Esmaili-Taheri, M.~Ganjtabesh, and M.~Mohammad-Noori.
+\newblock Evolutionary solution for the rna design problem.
+\newblock {\em Bioinformatics}, 30(9):1250--1258, 2014.
+
+\bibitem{garcia2013rnaifold}
+J.~A. Garcia-Martin, P.~Clote, and I.~Dotu.
+\newblock Rnaifold: a constraint programming algorithm for rna inverse folding
+  and molecular design.
+\newblock {\em Journal of bioinformatics and computational biology},
+  11(02):1350001, 2013.
+
+\bibitem{goldberg2011nanoparticle}
+M.~S. Goldberg, D.~Xing, Y.~Ren, S.~Orsulic, S.~N. Bhatia, and P.~A. Sharp.
+\newblock Nanoparticle-mediated delivery of sirna targeting parp1 extends
+  survival of mice bearing tumors derived from brca1-deficient ovarian cancer
+  cells.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  108(2):745--750, 2011.
+
+\bibitem{hao2014construction}
+C.~Hao, X.~Li, C.~Tian, W.~Jiang, G.~Wang, and C.~Mao.
+\newblock Construction of rna nanocages by re-engineering the packaging rna of
+  phi29 bacteriophage.
+\newblock {\em Nature communications}, 5:3890, 2014.
+
+\bibitem{kleinkauf2015antarna}
+R.~Kleinkauf, M.~Mann, and R.~Backofen.
+\newblock antarna: ant colony-based rna sequence design.
+\newblock {\em Bioinformatics}, 31(19):3114--3121, 2015.
+
+\bibitem{lorenz2011viennarna}
+R.~Lorenz, S.~H. Bernhart, C.~H. Zu~Siederdissen, H.~Tafer, C.~Flamm, P.~F.
+  Stadler, and I.~L. Hofacker.
+\newblock Viennarna package 2.0.
+\newblock {\em Algorithms for molecular biology}, 6(1):26, 2011.
+
+\bibitem{shi2018sentrna}
+J.~Shi, R.~Das, and V.~S. Pande.
+\newblock Sentrna: Improving computational rna design by incorporating a prior
+  of human design strategies.
+\newblock {\em arXiv preprint arXiv:1803.03146}, 2018.
+
+\bibitem{taneda2011modena}
+A.~Taneda.
+\newblock Modena: a multi-objective rna inverse folding.
+\newblock {\em Advances and applications in bioinformatics and chemistry:
+  AABC}, 4:1, 2011.
+
+\bibitem{win2008higher}
+M.~N. Win and C.~D. Smolke.
+\newblock Higher-order cellular information processing with synthetic rna
+  devices.
+\newblock {\em Science}, 322(5900):456--460, 2008.
+
+\bibitem{zadeh2011nucleic}
+J.~N. Zadeh, B.~R. Wolfe, and N.~A. Pierce.
+\newblock Nucleic acid sequence design via efficient ensemble defect
+  optimization.
+\newblock {\em Journal of computational chemistry}, 32(3):439--452, 2011.
+
+\end{thebibliography}
